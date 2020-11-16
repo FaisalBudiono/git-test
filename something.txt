@@ -2,4 +2,4 @@ hayaku
 something more
 something else [third change]
 Change AA
-Change B
+Change B [second change]
