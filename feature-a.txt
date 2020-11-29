@@ -1,5 +1,8 @@
 [fix a]
+[Fix B]
 This is the newest feature of A
 [fix a]
 This feature is awesome
 [fix a]
+[Fix B]
+[Fix B]
