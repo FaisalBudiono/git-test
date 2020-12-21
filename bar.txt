@@ -1,4 +1,4 @@
 bar
 bar
-bar duar!
+!bar duar!
 duar bar
