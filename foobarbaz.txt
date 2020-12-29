@@ -1,4 +1,4 @@
 This is foo
 
-bar
+bar=>something
 and baz
