@@ -31,3 +31,6 @@ Example:
 - There are some changes regarding database DDL
 - There are some changes in GetCandy installation script.
 - There are some changes in `.env` file
+
+# Checklist
+- [ ] Tests
